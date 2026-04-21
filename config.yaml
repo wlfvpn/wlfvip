@@ -1,0 +1,6 @@
+meetings:
+  test-vfhc-zeq7j:
+    code: rge4-bdav7-2lzd
+    active: true
+    limit: 100.0
+    current: 0.0
