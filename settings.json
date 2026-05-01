@@ -1,5 +1,9 @@
 {
   "version": 1,
   "latest_url": "https://example.com/app/latest.apk",
-  "general": {}
+  "general": {
+    "g1": [
+      { "url": "jfvu-wbfzw-ashy", "current_count": 0, "max_count": 100 }
+    ]
+  }
 }
