@@ -4,54 +4,54 @@
   "general": {
     "g1": [
       {
-        "url": "jb2q-7wscs-upb4",
-        "current_count": 8,
-        "max_count": 50
+        "url": "fgxk-23ynb-mq6e",
+        "current_count": 0,
+        "max_count": 100
       }
     ],
     "g2": [
       {
-        "url": "5hao-ia4sj-yfir",
-        "current_count": 7,
-        "max_count": 50
+        "url": "zar2-em637-o3bn",
+        "current_count": 0,
+        "max_count": 100
       }
     ],
     "g3": [
       {
-        "url": "japy-znffk-375g",
-        "current_count": 5,
-        "max_count": 50
+        "url": "rhmk-x2ii6-tvsw",
+        "current_count": 0,
+        "max_count": 100
       }
     ],
     "g4": [
       {
-        "url": "rahs-uos3f-oz5v",
-        "current_count": 4,
-        "max_count": 50
+        "url": "na4c-aekhf-vyez",
+        "current_count": 0,
+        "max_count": 100
       }
     ]
   },
   "vip": {
     "5a3a09ae-8a7a-432b-a52e-a241498cf0e4": [
       {
-        "url": "vezq-4r27n-xo4n",
-        "current_count": 5,
-        "max_count": 50
-      },
-      {
-        "url": "nda6-bnjwn-iyi3",
-        "current_count": 5,
-        "max_count": 50
-      },
-      {
         "url": "vduy-ar2ds-dmev",
-        "current_count": 4,
+        "current_count": 0,
         "max_count": 50
       },
       {
         "url": "rb66-dltqv-2lnv",
-        "current_count": 4,
+        "current_count": 0,
         "max_count": 50
+      },
+      {
+        "url": "ndwm-c2byp-nrfb",
+        "current_count": 0,
+        "max_count": 100
+      },
+      {
+        "url": "rb7m-omh42-t57n",
+        "current_count": 0,
+        "max_count": 100
       }
     ]
   }
