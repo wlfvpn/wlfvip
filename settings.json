@@ -19,5 +19,29 @@
         "max_count": 100
       }
     ]
+  },
+  "vip": {
+    "5a3a09ae-8a7a-432b-a52e-a241498cf0e4": [
+      {
+        "url": "vezq-4r27n-xo4n",
+        "current_count": 0,
+        "max_count": 100
+      },
+      {
+        "url": "nda6-bnjwn-iyi3",
+        "current_count": 0,
+        "max_count": 100
+      },
+      {
+        "url": "vduy-ar2ds-dmev",
+        "current_count": 0,
+        "max_count": 100
+      },
+      {
+        "url": "rb66-dltqv-2lnv",
+        "current_count": 0,
+        "max_count": 100
+      }
+    ]
   }
 }
